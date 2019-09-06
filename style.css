@@ -1,0 +1,170 @@
+a {
+    color: thistle;
+}
+
+.jumbotronHeading{
+    color: #707070;
+    font: 300;
+    font-family: 'Nanum Gothic', sans-serif;
+    font-weight: 300;
+    margin-top: 0px;
+    padding-top: 30px;
+    margin-right: 5px;
+}
+
+.banner{
+    background: linear-gradient(#c2a5fa, #fafa9c);
+    height: 400px;
+
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+  }
+
+
+
+.workTiles{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 50px;
+    
+}
+
+
+.Tiles-eff {
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 5px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 50%;
+    height: 50%;
+    text-align: center;
+    box-shadow: 2px 3px 20px #cccccc;
+    
+}
+
+
+.lineDiv{
+    width: 2px;
+    height: 1000px;
+    background-color: black;
+    margin-left: 5%;
+}
+
+.nav-text{
+    color: #707070;
+    font: 300;
+    font-family: 'Nanum Gothic', sans-serif;
+    font-weight: 300;
+
+}
+.connect-btn{
+    background-color: transparent;
+    border: 4px solid white;
+    width: 200px;
+    height: 50px;
+    position: absolute;
+    top: 50%;
+    left: 42%;
+    
+}
+.connect-btn h3{
+    color: #707070;
+    font-size: 25px;
+    font-family: 'Nanum Gothic', sans-serif;
+    font-weight: 300;
+    text-align: center;
+    padding-top: 5px;
+
+    
+}
+.workTiles h3{
+    color: #707070;
+    font: 300;
+    font-family: 'Nanum Gothic', sans-serif;
+    font-weight: 300;
+    padding-top: 10px;
+}
+
+.workTiles h4{
+    color: #707070;
+    font: 300;
+    font-family: 'Nanum Gothic', sans-serif;
+    font-weight: 300;
+}
+
+.mt5-text{
+    color: #707070;
+    font: 300;
+    font-family: 'Nanum Gothic', sans-serif;
+    font-weight: 400;
+    padding-bottom: 20px;
+    
+}
+.imag-size{
+    width: 65%;
+    height:65%
+}
+
+.resume {
+    align-self: baseline;
+    margin-left: 10px;
+}
+
+.workTiles div p{
+    margin-right: 40px;
+    padding-top: 10px;
+}
+.corner {
+    margin-left: 10px;
+    padding-left: 10px;
+    align-self: baseline;
+    -moz-box-align: end;
+}
+.workTiles h1{
+    color: #c2a5fa;
+    font: 300;
+    font-family: 'Nanum Gothic', sans-serif;
+    font-weight: 300;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+    
+}
+.resume-size{
+    width: 60%;
+    height:60%;
+    margin-left: 10px;
+    box-align: -5px;
+    
+}
+.btn {
+    color: #c2a5fa;
+
+
+}
+.btn:hover{
+    background-color:#c2a5fa;
+}
+
+.Tiles-eff:hover{
+    background-color: #c2a5fa;
+
+
+}
+.connect-btn:hover{
+    background-color: #c2a5fa;
+}
